@@ -6,6 +6,7 @@ import { IonicModule, IonicRouteStrategy } from '@ionic/angular';
 
 import { AppComponent } from './app.component';
 import { AppRoutingModule } from './app-routing.module';
+import { ImagePickerComponent } from './image-picker/image-picker.component';
 
 @NgModule({
   declarations: [AppComponent],
